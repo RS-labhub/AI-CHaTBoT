@@ -33,9 +33,9 @@
 
 ###  :movie_camera: Demo
 - After a brief introduction, let's dive a little more inside the project.
-- Here is the walk-through of **AI ChaTBoT 🤖**.
+- Here is the walk-through of **AI ChaTBoT 🤖**. If you want to witness a more a hd version, [click here](https://github.com/RS-labhub/AI-CHaTBoT/blob/master/Assets/LLMWARE%20CHatBot%20Preview.mp4)
 
-
+https://github.com/RS-labhub/AI-CHaTBoT/assets/117426013/8157ceed-e0ef-4671-b1ec-f22604306ea7
 
 <p align="center">Video Demonstration</p>
 
@@ -172,5 +172,5 @@ $~$
 <br>
 
 <p align="center">
-   Thank you for visting this Repo <br>If you like it, ⭐ it
+   Thank you for visting this Repo <br>If you like it, <a href="https://github.com/RS-labhub/I-Love-You/stargazers">star ⭐</a> it
 </p>
