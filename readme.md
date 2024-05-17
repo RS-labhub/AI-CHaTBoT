@@ -14,13 +14,13 @@
 </p>
 
 
-### AI ChaTBoT 🤖 
+## AI ChaTBoT 🤖 
 - A powerful chatbot that can answer all your doubts whether it's your science question or maths homework.
 - Just imagine the power of this ChaTBoT, built using LLMWARE integrated with the model "**phi-3-gguf**".
 
 #
 
-### :books: Index
+## :books: Index
 
 - [Demo](#movie_camera-Demo)
 - [Screenshots](#screenshots)
