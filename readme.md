@@ -117,6 +117,14 @@ https://github.com/RS-labhub/AI-CHaTBoT/assets/117426013/8157ceed-e0ef-4671-b1ec
     run ChatbotGUI_Modern.py
 ```
 <br>
+<p align="center">
+  The running shell should look like this
+</p>
+<p align="center">
+<img src="Assets/Classic Gui.png" >
+<img src="Assets/Modern GUI.png" >
+</p>
+<br>
 
 ## What to do after installation?
 Once AI-CHaTBoT is installed and running, you can use it to get your answers. Input your message in the provided text-area, and get to know the results after clicking on the send button.
