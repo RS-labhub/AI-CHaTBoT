@@ -56,6 +56,12 @@ https://github.com/RS-labhub/AI-CHaTBoT/assets/117426013/8157ceed-e0ef-4671-b1ec
 
 <br>
 
+
+## Dependecies
+1. **Python**
+2. *LLMWARE*
+3. **Tkinter**
+
 #
 
 ##  :outbox_tray: Installation Guide
