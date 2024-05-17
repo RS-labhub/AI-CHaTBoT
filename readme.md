@@ -180,5 +180,5 @@ $~$
 <br>
 
 <p align="center">
-   Thank you for visting this Repo <br>If you like it, <a href="https://github.com/RS-labhub/I-Love-You/stargazers">star ⭐</a> it
+   Thank you for visting this Repo <br>If you like it, <a href="https://github.com/RS-labhub/I-Love-You/stargazers">star</a> ⭐ it
 </p>
