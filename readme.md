@@ -40,21 +40,16 @@
 <p align="center">Video Demonstration</p>
 
 ### Screenshots
+
 <p align="center">
   <img src="Assets/Chatbot.png"  />
-  Python version
+  <p align="center">Python version</p>
   <br>
-</p>
-
-<p align="center">
-  <img src="Assets/Classic_Interface.png"  />
-  Tkinter Classic GUI
+  <img align="center" src="Assets/Classic_Interface.png"  />
+  <p align="center">Tkinter Classic GUI</p>
   <br>
-</p>
-
-<p align="center">
   <img src="Assets/Modern_Interface.png"  />
-  Tkinter Modern GUI
+  <p align="center">Tkinter Modern GUI</p>
 </p>
 
 <br>
