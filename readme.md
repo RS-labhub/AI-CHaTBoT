@@ -45,9 +45,11 @@
   <img src="Assets/Chatbot.png"  />
   <p align="center">Python version</p>
   <br>
-  <img align="center" src="Assets/Classic_Interface.png"  />
+  <p align="center">
+  <img src="Assets/Classic_Interface.png"  />
   <p align="center">Tkinter Classic GUI</p>
   <br>
+  <p align="center">
   <img src="Assets/Modern_Interface.png"  />
   <p align="center">Tkinter Modern GUI</p>
 </p>
