@@ -96,7 +96,7 @@ https://github.com/RS-labhub/AI-CHaTBoT/assets/117426013/8157ceed-e0ef-4671-b1ec
 
 <br>
 
-> Note: When running it for the first time, it can take about 10-15mins, as per your system's specification. It is highly recommended to use in the system which have atleast 8Gb of RAM and some Graphics Card.
+> Note: When running it for the first time, it can take about 10-15mins, as per your system's specification. It is highly recommended to use in the system which have atleast 16Gb of RAM and some Graphics Card. Otherwise, it may lead to crash/hanging up your system.
 
 <br>
 
